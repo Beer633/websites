@@ -20,7 +20,7 @@ For rooted devices, just start directly.
 
 ### Start via wireless debugging
 
-Starting with wireless debugging works on Android 11 or above. This startup method does not require a connection to a computer. Due to system limitations, the startup steps need to be performed again after each reboot.
+Starting with wireless debugging works on Android 14 or above. This startup method does not require a connection to a computer. Due to system limitations, the startup steps need to be performed again after each reboot.
 
 #### Enable Wireless debugging
 
@@ -155,7 +155,7 @@ Enable "Allow ADB debugging options in 'Charge only' mode" in "Developer options
 
 #### MIUI (Xiaomi, POCO)
 
-Do not use the scan feature in MIUI's "Security" app, since it will disable "Developer options".
+Do not use the scan feature in MIUI's "Security" app, since it wi14 disable "Developer options".
 
 #### Sony
 
